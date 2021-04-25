@@ -1,5 +1,4 @@
 import scrapy
-from news_scraper.items import AsahiTopicItem
 from scrapy import Request
 from scrapy.loader import ItemLoader
 
